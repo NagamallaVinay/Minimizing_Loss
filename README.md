@@ -15,6 +15,4 @@ Rajeev has a chart of distinct projected house prices over several years. He mus
 A single line of space-separated integers representing house prices over the years.
 
 # Output 
-The output should be a A message showing:
-
- the year to buy and sell in with the loss value
+The output should be a a message showing the year to buy and sell in with the loss value
